@@ -1,0 +1,21 @@
+SANTA LUZIA HOSPEDAGENS — SITE PARA VISUAL STUDIO CODE
+
+Estrutura:
+- index.html: conteúdo e estrutura do site
+- css/style.css: aparência, responsividade e estilos das interações
+- script.js: menu mobile, animações, barra de progresso, quiz e botões de demonstração
+- img/: capturas de tela do app e QR Codes
+
+Interações adicionadas:
+- Quiz "Que tipo de hospedagem combina com você?" com recomendação informativa.
+- Botões para salvar/retirar das telas demonstrativas.
+- Menu responsivo para celular.
+- Barra de progresso e animações suaves ao rolar a página.
+
+Como abrir:
+1. Extraia o ZIP.
+2. Abra a pasta no Visual Studio Code (Arquivo > Abrir Pasta).
+3. Abra index.html com a extensão Live Server para visualizar as alterações.
+4. Mantenha css, img e script.js nos caminhos originais.
+
+Nota: o quiz é uma demonstração da proposta do projeto; não consulta reservas nem disponibilidade em tempo real.
